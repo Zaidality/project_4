@@ -16,4 +16,3 @@ Dataset - https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset
 - Build Logistic Regression Model with Test and Train split data.
 - Find accuracy scores.
 - Predict diabetes status for given features.
-- Build a front end to take the features and run the notebook. 
