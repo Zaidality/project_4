@@ -3,7 +3,7 @@
 # **Project 4 - Group 10**
 # **Diabetes - Prediction**
  
-### Objective: To create a Logistic Regression Model to predict if some one with given features has diabetes or not.
+### Objective: To create machine learning models and compare their performance in predicting whether someone with given features has diabetes or not.
 
 Dataset - https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset
 
