@@ -1,7 +1,7 @@
 
 
 # **Project 4 - Group 10**
-# **Diabetes - Machine Learning Prediction**
+# **Diabetes Prediction - Machine Learning**
  
 ### Objective: To create machine learning models and compare their performance in predicting whether someone with given features has diabetes or not.
 
